@@ -1,0 +1,43 @@
+Privacy Policy for Streakz
+
+Last updated: August 20, 2025
+
+INTRODUCTION
+Streakz ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our mobile application Streakz (the "App").
+
+DATA COLLECTION
+We do not collect, store, transmit, or share any personal data or information from users of the Streakz app.
+
+INFORMATION STORED LOCALLY
+All data created within the app, including but not limited to:
+- Goal names and descriptions
+- Habit completion records
+- Streak counts and statistics
+- App preferences and settings
+- User profile information
+
+This information is stored locally on your device only and never leaves your device.
+
+NO THIRD-PARTY SERVICES
+We do not use any third-party analytics, advertising, or tracking services. We do not integrate with social media platforms or external services that could collect your data.
+
+NO ACCOUNT CREATION
+Streakz does not require account creation, login, or any form of user registration. You can use the app completely anonymously.
+
+DATA SHARING
+Since we do not collect any data, we do not share, sell, rent, or trade any user information with third parties.
+
+DATA SECURITY
+Your data remains on your device and is protected by your device's built-in security features, including device encryption and access controls.
+
+CHILDREN'S PRIVACY
+Our app does not collect personal information from anyone, including children under 13 years of age.
+
+CHANGES TO THIS POLICY
+We may update this Privacy Policy from time to time. Any changes will be posted within the app and on this page with an updated "Last updated" date.
+
+CONTACT US
+If you have any questions about this Privacy Policy, please contact us at:
+[Your email address]
+
+This policy is effective as of August 20, 2025.
