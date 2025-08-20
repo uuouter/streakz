@@ -1,0 +1,17 @@
+Streakz Support
+
+Having trouble with Streakz? We're here to help!
+
+COMMON QUESTIONS
+
+How do I create a habit?
+Tap the + button on the home screen and fill out the form.
+
+How do I mark a day complete?
+Tap on any goal card and toggle the days you completed.
+
+How are streaks calculated?
+Streaks count consecutive weeks where you hit your target frequency.
+
+App Version: 1.0.0
+Last updated: August 20, 2025
